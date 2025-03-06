@@ -1,0 +1,28 @@
+                 612
+
+---------------RECEIPT----------------
+Order		Quantity	Price
+Kitakata	1		270.00
+Hakodate	1		150.00
+Egg	1		15.00
+Rice Cake	1		20.00
+Noodle	1		25.00
+Seaweed	1		10.00
+--------------------------------------
+Subtotal:		P 490.00
+Discount:		PWD -20%
+Amount Paid:		P 450.00
+VAT: 12%
+Total Price		P 439.04
+Change Amount:		P 10.96
+--------------------------------------
+Option: Take Out
+Reference #:		96690
+Date and Time:		06-19 12:44 AM
+--------------------------------------
+
+******NOW ACCEPTING APPLICATIONS******
+        Text to 09218196410
+
+---THANK YOU FOR CHOOSING RAMENILA!---
+            COME AGAIN

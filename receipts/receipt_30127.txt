@@ -1,0 +1,26 @@
+                 750
+
+---------------RECEIPT----------------
+Order		Quantity	Price
+Tokushima	1		250.00
+Kitakata	1		270.00
+Spicy Ramen	1		150.00
+Yamagata	1		150.00
+--------------------------------------
+Subtotal:		P 820.00
+Discount:		None
+Amount Paid:		P 920.00
+VAT: 12%
+Total Price		P 918.40
+Change Amount:		P 1.60
+--------------------------------------
+Option: Take Out
+Reference #:		30127
+Date and Time:		06-19 12:40 AM
+--------------------------------------
+
+******NOW ACCEPTING APPLICATIONS******
+        Text to 09218196410
+
+---THANK YOU FOR CHOOSING RAMENILA!---
+            COME AGAIN

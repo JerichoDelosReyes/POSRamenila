@@ -1,0 +1,24 @@
+                 247
+
+---------------RECEIPT----------------
+Order		Quantity	Price
+Kitakata	1		270.00
+Hakodate	1		150.00
+--------------------------------------
+Subtotal:		P 420.00
+Discount:		None
+Amount Paid:		P 470.40
+VAT: 12%
+Total Price		P 470.40
+Change Amount:		P -0.00
+--------------------------------------
+Option: None
+Reference #:		54167
+Date and Time:		06-19 12:22 AM
+--------------------------------------
+
+******NOW ACCEPTING APPLICATIONS******
+        Text to 09218196410
+
+---THANK YOU FOR CHOOSING RAMENILA!---
+            COME AGAIN

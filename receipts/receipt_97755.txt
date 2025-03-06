@@ -1,0 +1,24 @@
+                 970
+
+---------------RECEIPT----------------
+Order		Quantity	Price
+Hakodate	1		150.00
+Kitakata	1		270.00
+--------------------------------------
+Subtotal:		P 420.00
+Discount:		None
+Amount Paid:		P 471.00
+VAT: 12%
+Total Price		P 470.40
+Change Amount:		P 0.60
+--------------------------------------
+Option: Dine In
+Reference #:		97755
+Date and Time:		06-19 12:43 AM
+--------------------------------------
+
+******NOW ACCEPTING APPLICATIONS******
+        Text to 09218196410
+
+---THANK YOU FOR CHOOSING RAMENILA!---
+            COME AGAIN
